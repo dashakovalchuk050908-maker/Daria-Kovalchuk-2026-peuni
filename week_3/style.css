@@ -1,0 +1,67 @@
+/* Variables */
+:root {
+  --primary-color: #3b1f0a;   /* Coffee Brown */
+  --bg-color: #fdf0db;        /* Cream Background */
+}
+
+/* Apply Basics */
+body {
+  font-family: sans-serif; 
+  background-color: var(--bg-color); 
+  color: var(--primary-color);
+  display: flex;
+  flex-direction: column;
+}
+
+/* Task 3: Mobile-First Rules */
+img {
+  width: 100%;
+}
+
+li {
+  min-height: 44px;
+  display: flex;
+  align-items: center; 
+}
+
+/* Task 4: Centering content */
+body > * {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header, main, footer {
+    padding: 20px;
+}
+
+/* Task 5: Layout & Lists */
+ul {
+    list-style-type: none; 
+    padding-left: 20px;
+}
+
+/* Adding emojis using ::before */
+li:nth-child(1)::before {
+    content: "☕ ";
+    margin-right: 8px; 
+}
+
+li:nth-child(2)::before {
+    content: "🍵 ";
+    margin-right: 8px;
+}
+
+li:nth-child(3)::before {
+    content: "🥐 ";
+    margin-right: 8px;
+}
+
+/* Footer Box Styling - Sharp and Beige */
+footer {
+    background-color: #eaddc5; /* A nice beige that matches the cream and coffee */
+    border: 2px solid var(--primary-color); /* Matches the coffee brown */
+    border-radius: 0; /* Keeps the corners perfectly sharp */
+    text-align: center;
+    margin-top: 20px;
+}
