@@ -1,0 +1,3 @@
+GTM-5BCWSRC3  - Google Tag Manager ID
+G-CYJS0JKM0X - Analytics ID
+Conversion Description: I am tracking page views for the Menu page by firing a 'generate_lead' event whenever a user visits a URL containing /menu.
