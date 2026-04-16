@@ -1,0 +1,8 @@
+1. PERSONA GENERATION PROMPT:
+Act as a brand strategist. Create a brand persona for a cafe called "Erasmus Brew" targeting both local and international university students. Please include the Personality/Tone, a 3-color palette with HEX codes, typography suggestions using Google Fonts, and a 2-sentence marketing pitch.
+
+2. UI GENERATION PROMPT:
+Generate a mobile homepage UI for a cafe called 'Erasmus Brew'. The brand tone is Vibrant, Global, & Welcoming. Use a color palette of Energetic Coral (#FF6B6B), Deep Charcoal (#292F36), and Crisp Off-White (#F7FFF7). The layout should feature a hero section with a welcoming image, a quick 'Menu' button, and a section highlighting student discounts.
+
+3. IMAGE GENERATION PROMPT:
+A high-quality, photorealistic hero image for a modern cafe website. The scene shows a diverse group of university students laughing and studying together around a wooden table in a brightly lit, cozy cafe. They have laptops open and aesthetic lattes on the table. Warm, inviting lighting, vibrant atmosphere, shot on 35mm lens.
