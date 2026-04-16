@@ -1,0 +1,15 @@
+CONVERSION STRATEGY - ERASMUS BREW
+
+1. The Value Exchange:
+I am offering a "Brew Crew Loyalty Voucher" (a 2-for-1 coffee deal) and a "Student Guide to Prague Study Spots." This exchange provides immediate value to Erasmus students who are looking to save money and discover the city.
+
+2. Data Minimization:
+- Name: To personalize our welcome emails.
+- Email: To deliver the digital voucher and future updates.
+- University Dropdown: This allows us to track which university (Charles, CTU, VSE) our customers come from so we can offer campus-specific "Exam Week" specials.
+- GDPR Checkbox: To ensure we have explicit consent to store their data, keeping our collection legal and transparent.
+
+3. Audit Results:
+- Performance Score: 73
+- Biggest Offender: The largest delay was caused by high-resolution hero images (Large Contentful Paint). 
+- Optimization: I downloaded the heavy AI-generated images, converted them to WebP format, and re-uploaded them. This reduced file sizes by approximately 70% while maintaining the "Coffee-chic" aesthetic.
