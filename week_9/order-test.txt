@@ -1,0 +1,8 @@
+The Friction Test: 
+It took exactly 6 clicks to go from the homepage to completing a full order.
+
+Product Logic: 
+My "Variable" product is the Matcha Latte. I used the "Attributes" and "Variations" settings to let the customer choose their preferred Milk Type. The options I gave them are: Cow, Oat, and Soy. 
+
+Inventory: 
+Because I turned on "Track stock quantity" and set the starting number to 8, placing a test order for a Almond Croissant automatically subtracted 1 from the inventory. The page now knows there are only 4 left in stock!
