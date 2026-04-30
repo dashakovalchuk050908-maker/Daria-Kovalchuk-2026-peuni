@@ -1,0 +1,8 @@
+The Coupon: 
+My coupon code is FRESHBREW67. The business logic is to incentivize new users to make their first purchase by offering a 15% discount, but it protects my profits by requiring a minimum spend of 100 CZK. It also creates urgency by expiring in 30 days.
+
+The Automation: 
+My Welcome Email triggers after 1 minute when someone joins the Brew Crew. The subject line is "Welcome to the Brew Crew! (Here is your 15% off gift ☕)". The email uses my brand colors, welcomes them to the community, and gives them the FLIGHTPLAN15 code to use on their first order.
+
+The Data Strategy: 
+By asking for their "Favorite Coffee", I can segment my email list. If a group selects "Latte", I can send them specific marketing emails when we get a new flavor of Oat Milk in stock, rather than bothering the "Espresso" drinkers who wouldn't care about milk options. This makes the emails feel much more personalized!
